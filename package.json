@@ -1,0 +1,28 @@
+{
+  "name": "ef",
+  "version": "1.0.0",
+  "description": "Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogomes/EF.git"
+  },
+  "keywords": [
+    "Estrela",
+    "Festas"
+  ],
+  "author": "Diogo Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diogomes/EF/issues"
+  },
+  "homepage": "https://github.com/Diogomes/EF#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
